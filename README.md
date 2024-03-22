@@ -19,12 +19,6 @@ I'm Amar Kumar Pathak, currently pursuing my BCA from KL University, Vijayawada.
 - Machine Learning
 - Data Science
 
-## Get in Touch 📫
-
-- LinkedIn: [Amar Kumar Pathak](Certainly! Below is a README template for your GitHub profile:
-
----
-
 # Hello there! 👋
 
 I'm Amar Kumar Pathak, currently pursuing my BCA from KL University, Vijayawada. 🎓 I am passionate about Machine Learning and have a keen interest in Data Science. 💻
