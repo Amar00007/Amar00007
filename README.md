@@ -1,6 +1,4 @@
-Certainly! Below is a README template for your GitHub profile:
 
----
 
 # Hello there! 👋
 
@@ -30,4 +28,4 @@ I'm Amar Kumar Pathak, currently pursuing my BCA from KL University, Vijayawada.
 
 I'm always open to connecting with fellow enthusiasts, developers, and professionals. Let's learn and grow together! Feel free to connect with me via LinkedIn or drop me an email.
 
----
+
