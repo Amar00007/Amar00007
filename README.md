@@ -47,13 +47,5 @@ I'm Amar Kumar Pathak, currently pursuing my BCA from KL University, Vijayawada.
 
 I'm always open to connecting with fellow enthusiasts, developers, and professionals. Let's learn and grow together! Feel free to connect with me via LinkedIn or drop me an email.
 
----
-
-Feel free to modify and customize this template according to your preferences and add any additional information you'd like to include! Once you're satisfied with your README, you can simply add it to your GitHub repository.)
-- Email: amarkumarpathak2004@gmail.com
-
-## Let's Connect! 🌐
-
-I'm always open to connecting with fellow enthusiasts, developers, and professionals. Let's learn and grow together! Feel free to connect with me via LinkedIn or drop me an email.
 
 
