@@ -1,24 +1,4 @@
 
-
-# Hello there! 👋
-
-I'm Amar Kumar Pathak, currently pursuing my BCA from KL University, Vijayawada. 🎓 I am passionate about Machine Learning and have a keen interest in Data Science. 💻
-
-## About Me ℹ️
-
-- 🔭 I'm currently exploring the realms of Machine Learning algorithms and Data Analysis techniques.
-- 🌱 I'm constantly learning and expanding my knowledge in Python, Java, and SQL.
-- 👯 I'm looking forward to contributing to the software industry and collaborating on exciting projects.
-- 💬 Feel free to reach out to me for discussions on Data Science, Machine Learning, or anything tech-related!
-
-## Skills 🚀
-
-- Python
-- Java
-- SQL
-- Machine Learning
-- Data Science
-
 # Hello there! 👋
 
 I'm Amar Kumar Pathak, currently pursuing my BCA from KL University, Vijayawada. 🎓 I am passionate about Machine Learning and have a keen interest in Data Science. 💻
